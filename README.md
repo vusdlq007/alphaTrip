@@ -1,4 +1,4 @@
-# 
+
 
 
 # AlphaTrip Service (v0.0.1)
@@ -6,6 +6,13 @@
 ### AlphaTrip 서비스 개발 저장소.
 
 기간 : 2022. 11. 18(금) ~ 2023. 01. 31(화)
+
+파트 : 김윤권 (FullStack,DB,DevOps),
+      김동우 (FullStack,DB)
+
+Confluence 주소 : https://alphatrip.atlassian.net/wiki/spaces/A/pages/229417/Alpha+Trip
+
+Jira 주소 : https://alphatrip.atlassian.net/jira/software/projects/AL/boards/1
 
 ##[주요 서비스 API]
 
